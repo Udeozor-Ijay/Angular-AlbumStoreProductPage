@@ -1,6 +1,6 @@
 import {Track} from './track';
 
-export interface Tracks {
+export interface Track {
     trackNumber : number;
     trackName: string;
     trackLength: string;
